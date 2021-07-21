@@ -2,6 +2,6 @@
 
 New line in demo file.
 
-## adding new line
+# adding new line
 
 This is my new text
